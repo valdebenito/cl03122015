@@ -17,8 +17,7 @@ import javax.persistence.PersistenceContext;
 @Stateless
 public class DiscountCodeFacade extends AbstractFacade<DiscountCode> {
 
-    
-
+   
     
 
     public DiscountCodeFacade() {

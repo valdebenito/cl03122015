@@ -20,7 +20,6 @@ public class MicroMarketFacade extends AbstractFacade<MicroMarket> {
     
 
     
-
     public MicroMarketFacade() {
         super(MicroMarket.class);
     }

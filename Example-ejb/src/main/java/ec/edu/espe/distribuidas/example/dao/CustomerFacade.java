@@ -18,7 +18,6 @@ import javax.persistence.PersistenceContext;
 public class CustomerFacade extends AbstractFacade<Customer> {
 
     
-
     
 
     public CustomerFacade() {
